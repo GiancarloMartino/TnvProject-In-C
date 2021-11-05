@@ -1,0 +1,3 @@
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/cmake-build-debug/CMakeFiles/TnvProject.dir

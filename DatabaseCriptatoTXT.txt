@@ -1,0 +1,141 @@
+Numeo elementi 10
+
+Nome                    : Trfhvkkv
+Cognome                 : Nzozeltorz
+Altezza                 : 188cm
+Peso                    : 156.53kg
+Colore occhi            : #64A985
+Colore capelli          : #D3C5D4
+Capelli                 : MEDI
+Barba                   : presente
+Cicatrice volto         : presente
+Chiave impronta         : IP8Dt2QCONVYXO0z
+Residente in            : Puglia - Sestu - 404 Atlantic Rd
+Ultima pos.             : S 31.539964° E 171.814936°
+Stato                   : IN ARRESTO
+
+Nome                    : Zovhhzmwil
+Cognome                 : Hliivmgrml
+Altezza                 : 183cm
+Peso                    : 3.49kg
+Colore occhi            : #E0C525
+Colore capelli          : #E2EABA
+Capelli                 : MEDI
+Barba                   : presente
+Cicatrice volto         : presente
+Chiave impronta         : 9fPjR33z56Fn98PR
+Residente in            : Umbria - San Andreas - South Beach
+Ultima pos.             : N 80.903043° W 86.020081°
+Stato                   : EVASO
+
+Nome                    : Irxxziwl
+Cognome                 : Kfgaf
+Altezza                 : 183cm
+Peso                    : 59.22kg
+Colore occhi            : #1E29D9
+Colore capelli          : #430C86
+Capelli                 : LUNGHI
+Barba                   : assente
+Cicatrice volto         : presente
+Chiave impronta         : 9QgX5h0B1SFHVvd7
+Residente in            : Puglia - San Andreas - NE 1st Ave
+Ultima pos.             : N 61.852168° E 30.163884°
+Stato                   : LIBERO
+
+Nome                    : Nzigrmz
+Cognome                 : Nzozeltorz
+Altezza                 : 160cm
+Peso                    : 91.26kg
+Colore occhi            : #E09B0E
+Colore capelli          : #F8B8F1
+Capelli                 : LUNGHI
+Barba                   : assente
+Cicatrice volto         : assente
+Chiave impronta         : d41zoOYHB9ZDMMxG
+Residente in            : Sardegna - San Andreas - NE 1st Ave
+Ultima pos.             : S 73.602405° E 148.962676°
+Stato                   : EVASO
+
+Nome                    : Zovhhzmwil
+Cognome                 : Hrnkhlm
+Altezza                 : 79cm
+Peso                    : 184.09kg
+Colore occhi            : #5EE674
+Colore capelli          : #E68A4F
+Capelli                 : LUNGHI
+Barba                   : presente
+Cicatrice volto         : assente
+Chiave impronta         : iEPPaQbUWWSP5jN9
+Residente in            : Sardegna - NYC - Via Bellini 41
+Ultima pos.             : S 80.112003° W 51.170385°
+Stato                   : RICERCATO
+
+Nome                    : Zihvmrl
+Cognome                 : Nzozeltorz
+Altezza                 : 160cm
+Peso                    : 163.70kg
+Colore occhi            : #C15E30
+Colore capelli          : #A68FDF
+Capelli                 : LUNGHI
+Barba                   : presente
+Cicatrice volto         : presente
+Chiave impronta         : S5C2MRUFjv42SIT9
+Residente in            : Toscana - NYC - Corso Vittorio Emanuele 3
+Ultima pos.             : N 32.649617° W 176.451308°
+Stato                   : EVASO
+
+Nome                    : Nzigrmz
+Cognome                 : Hrnkhlm
+Altezza                 : 9cm
+Peso                    : 29.79kg
+Colore occhi            : #CF444D
+Colore capelli          : #FEF34E
+Capelli                 : CORTI
+Barba                   : assente
+Cicatrice volto         : presente
+Chiave impronta         : 9Q0MXU9MGAShDjy1
+Residente in            : New York - Miami - Via Bellini 41
+Ultima pos.             : S 80.386670° W 6.850185°
+Stato                   : IN ARRESTO
+
+Nome                    : Uzyrl
+Cognome                 : Hrnkhlm
+Altezza                 : 107cm
+Peso                    : 17.67kg
+Colore occhi            : #EBFB3C
+Colore capelli          : #ABEDEB
+Capelli                 : CORTI
+Barba                   : assente
+Cicatrice volto         : presente
+Chiave impronta         : 9UTBfA51Q3z5eo6E
+Residente in            : Florida - Flumini - Via Cagliari 44
+Ultima pos.             : S 14.906156° W 116.046632°
+Stato                   : LIBERO
+
+Nome                    : Zovhhzmwil
+Cognome                 : Hrnkhlm
+Altezza                 : 236cm
+Peso                    : 0.24kg
+Colore occhi            : #4D2DEA
+Colore capelli          : #509619
+Capelli                 : MEDI
+Barba                   : presente
+Cicatrice volto         : presente
+Chiave impronta         : xsY9j99lA6bKUUz3
+Residente in            : Puglia - Flumini - East 86th St
+Ultima pos.             : N 23.393353° W 100.522477°
+Stato                   : EVASO
+
+Nome                    : Zihvmrl
+Cognome                 : Xlmgv
+Altezza                 : 239cm
+Peso                    : 176.24kg
+Colore occhi            : #AC04C0
+Colore capelli          : #70A066
+Capelli                 : MEDI
+Barba                   : presente
+Cicatrice volto         : assente
+Chiave impronta         : 4jPUBOcur4FIbIF9
+Residente in            : Puglia - Quartu - Via Bellini 41
+Ultima pos.             : N 52.518998° E 144.194464°
+Stato                   : LIBERO

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/AzioneConfronti.h
+libreria_primaria.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.h
+
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/controlli.h
+libreria_primaria.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.h
+
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.c
+libreria_primaria.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.h
+AzioneConfronti.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/AzioneConfronti.h
+stampe.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/stampe.h
+controlli.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/controlli.h
+
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+ctype.h
+-
+string.h
+-
+time.h
+-
+
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/stampe.h
+libreria_primaria.h
+/Users/giancarlo/Desktop/progettiNETVALUE/TnvProject/libreria_primaria.h
+
